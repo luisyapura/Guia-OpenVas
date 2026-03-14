@@ -9,9 +9,9 @@
 - 2️⃣ [Breve Historia: El Origen de una Alternativa Libre](#2-breve-historia-el-origen-de-una-alternativa-libre)
 - 3️⃣ [¿Para qué sirve en una Auditoría?](#3-para-qué-sirve-en-una-auditoría)
 - 4️⃣ [Diferenciación: OpenVAS vs GVM](#4-diferenciación-openvas-vs-gvm)
-- 5️⃣ [Instalacion](/install/instalacion.md)
-- 6️⃣ [Sección 6 – Por definir](#6-sección-6-–-por-definir)
-- 7️⃣ [Sección 7 – Por definir](#7-sección-7-–-por-definir)
+- 5️⃣ [Comparación de OpenVAS con otros escáneres](#5-comparación-de-openvas-con-otros-escáneres)
+- 6️⃣ [Ventajas y desventajas de OpenVAS](#6-ventajas-y-desventajas-de-openvas)
+- 7️⃣ ¨[Instalación de Kali Linux s](/install/instalacion.md)
 - 8️⃣ [Sección 8 – Por definir](#8-sección-8-–-por-definir)
 - 9️⃣ [Sección 9 – Por definir](#9-sección-9-–-por-definir)
 - 📝 [Notas de Autoría](#-notas-de-autoría)
@@ -84,6 +84,31 @@ Es común confundir ambos términos:
 
 ---
 
+## 5. Comparación de OpenVAS con otros escáneres
+
+| Escáner             | Código abierto | Actualización NVT | Interfaz Web | Soporte CVE | Integración con GVM | Licencia    |
+| ------------------- | -------------- | ----------------- | ------------ | ----------- | ------------------- | ----------- |
+| **OpenVAS**         | ✅ Sí           | ✅ Comunitaria     | ✅ Sí         | ✅ Sí        | ✅ Sí                | GPLv2       |
+| Nessus              | ❌ No           | ✅ Sí              | ✅ Sí         | ✅ Sí        | ❌ No                | Propietaria |
+| Nexpose / InsightVM | ❌ No           | ✅ Sí              | ✅ Sí         | ✅ Sí        | ❌ No                | Comercial   |
+| Qualys              | ❌ No           | ✅ Sí              | ✅ Sí         | ✅ Sí        | ❌ No                | Comercial   |
+| Retina              | ❌ No           | ✅ Sí              | ✅ Sí         | ✅ Sí        | ❌ No                | Comercial   |
+
+---
+
+## 6. Ventajas y desventajas de OpenVAS
+
+| Ventajas                                                         | Desventajas                                                                        |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Código abierto y gratuito                                        | Configuración inicial compleja                                                     |
+| Actualizaciones frecuentes de NVTs (Network Vulnerability Tests) | Requiere recursos considerables en grandes redes                                   |
+| Integración completa con GVM (PostgreSQL + GVMD + GSA)           | Dependencia de Redis y PostgreSQL, posible fallo si no se inicializa correctamente |
+| Interfaz web intuitiva y generación de reportes                  | Base de datos inicial de NVT puede tardar en sincronizarse                         |
+| Permite auditorías de red y sistemas detalladas                  | La documentación puede ser dispersa para principiantes                             |
+| Compatible con estándares CVE y CVSS                             | Escaneo de grandes infraestructuras puede ser lento                                |
+
+
+---
 ## 📝 Notas de Autoría
 
 - **Proyecto:** El Arsenal de un Analista - Módulo 6  
