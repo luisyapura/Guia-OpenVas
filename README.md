@@ -1,4 +1,4 @@
-![Logo](/img/logo.svg)
+![Logo](/img/logo.png)
 
 
 # 🔍 ¿Qué es OpenVAS? Conceptos y Contexto Histórico
