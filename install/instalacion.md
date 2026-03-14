@@ -84,6 +84,15 @@ Una vez iniciado el servicio, la interfaz web es accesible localmente:
 
 
 ---
+## ⚠️ Una vez iniciado por primera vez OpenVans inicia la actualizacion la cual no debes interrumpir para poder hacer los scans
+
+Para poder visualizar el estado puedes usar
+
+```bash
+sudo tail -f /var/log/gvm/gvmd.log
+```
+
+![Update](/img/update.png) 
 
 ## 📝 Notas de Autoría y Licencia
 
