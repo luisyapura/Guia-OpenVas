@@ -1,4 +1,6 @@
-![Logo](/img/logo.png)
+<p align="center">
+  <img src="logo.png" width="300" alt="logo">
+</p>
 
 
 # 🔍 ¿Qué es OpenVAS? Conceptos y Contexto Histórico
