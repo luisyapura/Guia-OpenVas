@@ -1,3 +1,6 @@
+![Logo](/img/logo.svg)
+
+
 # 🔍 ¿Qué es OpenVAS? Conceptos y Contexto Histórico
 
 Este documento proporciona el trasfondo teórico necesario para entender **OpenVAS (Open Vulnerability Assessment System)** como componente central del arsenal de un analista de ciberseguridad.
