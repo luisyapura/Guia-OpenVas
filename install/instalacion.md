@@ -22,7 +22,7 @@ Para garantizar que el motor de escaneo procese los NVTs (Network Vulnerability 
 Antes de la instalación, sincronizamos los repositorios para evitar conflictos de dependencias con el kernel.
 
 ```bash
-sudo apt update && sudo apt full-upgrade -y
+sudo apt update && sudo apt upgrade -y
 ```
 
 ### Fase B: Despliegue de Binarios
