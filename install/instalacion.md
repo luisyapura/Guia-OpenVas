@@ -37,7 +37,7 @@ sudo apt install gvm -y
 
 Este proceso inicializa las bases de datos y descarga los feeds de vulnerabilidades (CVEs, CERTs, SCAP).
 
-> ⚠️ **Proceso Crítico:** Esta fase puede demorar entre 30 y 60 minutos. No interrumpas la ejecución, ya que podrías corromper la base de datos de firmas.
+> ⚠️ **Proceso Crítico:** Esta fase puede demorar entre 10 y 30 minutos (Depende de tu Conexion y Hardware). No interrumpas la ejecución, ya que podrías corromper la base de datos de firmas.
 
 ```bash
 sudo gvm-setup
