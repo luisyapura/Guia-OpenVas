@@ -80,8 +80,8 @@ Una vez iniciado el servicio, la interfaz web es accesible localmente:
 * **Credenciales:** [Utilizar la contraseña generada en la Fase C]
 
   Si todo esta correcto podras ingresar sin problemas como se muestra en la imagen
-  | ![Login](/img/login.png) |
-| :---: |
+  ![Login](/img/login.png) 
+
 
 ---
 
