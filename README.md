@@ -1,6 +1,7 @@
 <p align="center">
   <img src="/img/logo.png" width="300" alt="logo">
 </p>
+
 # 📖 Índice
 
 - 🔍 [¿Qué es OpenVAS? Conceptos y Contexto Histórico](#-qué-es-openvas-conceptos-y-contexto-histórico)
@@ -8,10 +9,15 @@
 - 2️⃣ [Breve Historia: El Origen de una Alternativa Libre](#2-breve-historia-el-origen-de-una-alternativa-libre)
 - 3️⃣ [¿Para qué sirve en una Auditoría?](#3-para-qué-sirve-en-una-auditoría)
 - 4️⃣ [Diferenciación: OpenVAS vs GVM](#4-diferenciación-openvas-vs-gvm)
+- 5️⃣ [Instalacion](/install/instalacion.md)
+- 6️⃣ [Sección 6 – Por definir](#6-sección-6-–-por-definir)
+- 7️⃣ [Sección 7 – Por definir](#7-sección-7-–-por-definir)
+- 8️⃣ [Sección 8 – Por definir](#8-sección-8-–-por-definir)
+- 9️⃣ [Sección 9 – Por definir](#9-sección-9-–-por-definir)
 - 📝 [Notas de Autoría](#-notas-de-autoría)
 
 
-# 🔍 ¿Qué es OpenVAS? Conceptos y Contexto Histórico
+## 🔍 ¿Qué es OpenVAS? Conceptos y Contexto Histórico
 
 Este documento proporciona el trasfondo teórico necesario para entender **OpenVAS (Open Vulnerability Assessment System)** como componente central del arsenal de un analista de ciberseguridad.
 
