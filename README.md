@@ -11,9 +11,9 @@
 - 4️⃣ [Diferenciación: OpenVAS vs GVM](#4-diferenciación-openvas-vs-gvm)
 - 5️⃣ [Comparación de OpenVAS con otros escáneres](#5-comparación-de-openvas-con-otros-escáneres)
 - 6️⃣ [Ventajas y desventajas de OpenVAS](#6-ventajas-y-desventajas-de-openvas)
-- 7️⃣ ¨[Instalación de Kali Linux s](/install/instalacion.md)
-- 8️⃣ [Sección 8 – Por definir](#8-sección-8-–-por-definir)
-- 9️⃣ [Sección 9 – Por definir](#9-sección-9-–-por-definir)
+- 7️⃣ [Instalación de Kali Linux](/install/instalacion.md)
+- 8️⃣ [Cheat Sheet](/cheatshet.md)
+- 9️⃣ [Laboratorio](/lab/lab.md)
 - 📝 [Notas de Autoría](#-notas-de-autoría)
 
 
