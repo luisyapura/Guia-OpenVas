@@ -42,7 +42,7 @@ Guardar el target.
 
 ---
 
-##🧪 Creación del Task de escaneo
+## 🧪 Creación del Task de escaneo
 
 Ir a:
 
