@@ -35,6 +35,10 @@ Configuración utilizada:
 | Port List | All TCP   |
 
 Guardar el target.
+<p align="center">
+  <img src="/img/target.png" width="800" alt="Target">
+</p>
+<b>Nota:</b> Puedes usar dominios, o usar notación CIDR como 192.168.0.1/24 para hacer scan a segmentos o redes completas
 
 ---
 
@@ -73,6 +77,10 @@ Durante el escaneo OpenVAS realiza:
 3. Identificación de servicios
 4. Ejecución de Network Vulnerability Tests (NVT)
 
+<p align="center">
+  <img src="/img/progress.png" width="800" alt="Progreso">
+</p>
+
 Duración aproximada del escaneo:
 
 6 minutos
@@ -94,6 +102,12 @@ Resultado total:
 Nivel de severidad:
 
 Medium
+
+<p align="center">
+  <img src="/img/report.png" width="800" alt="report">
+</p>
+
+<b>[REPORTE COMPLETO](/install/reporte.pdf)</b>
 
 ---
 
