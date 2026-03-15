@@ -1,4 +1,4 @@
-# 🧪🔬 Laboratorio OpenVAS / GVM – Escaneo de Vulnerabilidades en Localhost
+# 🔬 Laboratorio OpenVAS / GVM – Escaneo de Vulnerabilidades en Localhost
 
 Este laboratorio demuestra el uso de OpenVAS / Greenbone Vulnerability Management (GVM) para realizar un escaneo de vulnerabilidades sobre el propio sistema.
 
@@ -6,7 +6,7 @@ El objetivo es validar el funcionamiento del motor de escaneo y analizar los res
 
 ---
 
-# 🎯 Objetivo del laboratorio
+## 🎯 Objetivo del laboratorio
 
 El objetivo de este laboratorio es:
 
@@ -20,7 +20,7 @@ Target utilizado:
 
 ---
 
-# ⚙️ Creación del Target
+## ⚙️ Creación del Target
 
 En la interfaz web:
 
@@ -38,7 +38,7 @@ Guardar el target.
 
 ---
 
-# 🧪 Creación del Task de escaneo
+##🧪 Creación del Task de escaneo
 
 Ir a:
 
@@ -60,7 +60,7 @@ El perfil Full and Fast es el perfil estándar porque:
 
 ---
 
-# 🚀 Ejecución del escaneo
+## 🚀 Ejecución del escaneo
 
 Para iniciar el escaneo:
 
@@ -79,7 +79,7 @@ Duración aproximada del escaneo:
 
 ---
 
-# 📊 Resultado del escaneo
+## 📊 Resultado del escaneo
 
 Resumen del reporte:
 
@@ -97,7 +97,7 @@ Medium
 
 ---
 
-# 🔎 Vulnerabilidad detectada
+## 🔎 Vulnerabilidad detectada
 
 Nombre:
 
@@ -117,7 +117,7 @@ CVSS:
 
 ---
 
-# 📌 Detalle técnico
+## 📌 Detalle técnico
 
 El escaneo detectó que el servicio acepta un cipher TLS considerado débil.
 
@@ -133,7 +133,7 @@ Motivos:
 
 ---
 
-# ⚠️ Impacto
+## ⚠️ Impacto
 
 Un atacante podría potencialmente:
 
@@ -149,7 +149,7 @@ El impacto depende de:
 
 ---
 
-# 🛠️ Mitigación
+## 🛠️ Mitigación
 
 Se recomienda:
 
@@ -169,7 +169,7 @@ TLS 1.3
 
 ---
 
-# 🔍 Validación manual
+## 🔍 Validación manual
 
 Con Nmap:
 
@@ -181,7 +181,7 @@ sslscan 127.0.0.1:5432
 
 ---
 
-# 📌 Conclusiones
+## 📌 Conclusiones
 
 Este laboratorio permitió:
 
